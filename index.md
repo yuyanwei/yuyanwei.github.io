@@ -22,13 +22,13 @@
 2004/09-2008/07，聊城大学，计算机学院，学士   
 
 ## 学术兼职
-国家自然科学基金通讯评审专家（2015年-今）  
-山东省人工智能学会理事   
-程序委员会委员（PC Member）：KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
-期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
++ 国家自然科学基金通讯评审专家（2015年-今）  
++ 山东省人工智能学会理事   
++ 程序委员会委员（PC Member）：KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
++ 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## 科研项目
-[2018-2021] 国家自然科学基金面上项目, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.6万, **主持人** <span style="color:red;">**New!**</span>   
+[2018-2021] **国家自然科学基金面上项目**, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.6万, **主持人** <span style="color:red;">**New!**</span>   
 [2017-2019] 山东省高等学校科技计划项目, J17KA091, “支持公共位置服务的交通大数据实时挖掘与分析关键技术研究”, 3.5万, **主持人**  
 [2015-2017] 国家自然科学基金青年基金项目, 61403328, “时空大数据流分布式异常事件检测技术研究”, 25万, **主持人**  
 [2014-2016] 吉林大学符号计算与知识工程教育部重点实验室开放基金, 93K172014K13, “分布式异常检测技术研究”, 2万, **主持人**  
@@ -39,7 +39,7 @@
 [2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人  
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
-* <u>Yanwei Yu</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (DASFAA 2020), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
+* <u>Yanwei Yu</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**) <span style="color:red;">**New!**</span>  
 * 刘芳#, 齐建鹏, 于彦伟*, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (CCF A中文期刊)  
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
