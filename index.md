@@ -2,10 +2,10 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    现工作于中国海洋大学计算机科学与技术系，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议4篇、C类期刊/会议2篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+    现工作于中国海洋大学计算机科学与技术系，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议4篇、C类期刊/会议2篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
 </p>
 
-————————————————————————————————————————————
+———————————————————————————————————————————————
 
 ## 基本信息
 **工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
