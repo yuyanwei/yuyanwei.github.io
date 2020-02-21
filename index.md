@@ -1,18 +1,18 @@
 # 于彦伟 (Yanwei Yu)  
 
 <p style="width:700px;">
-    <img src="/yuyanwei.jpg" align="right" width="120" hspace="5" vspace="5">
-    现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴新加坡南洋理工大学(NTU)进行为期一年的CSC联合培养博士学习，导师为<a href="https://www.comp.nus.edu.sg/~xiaoxk/index.html">Prof. Xiaokui Xiao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据安全</u>、<u>差分隐私保护</u>以及<u>本地化差分隐私保护</u>；已在IEEE ICDE等国际顶级会议与期刊发表学术论文8篇，主持国家、省部级课题3项、参与多项.
+    <img src="/yu.jpg" align="right" width="120" hspace="5" vspace="5">
+    现工作于中国海洋大学计算机科学与技术系，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年-2013年赴美国伍斯特理工学院(WPI)进行为期一年的联合培养博士学习，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，21016年-2018年在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2018年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议4篇、C类期刊/会议2篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金项目。
 </p>
 
 ——————————————————————————————————
 
 ## 基本信息
 **工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
-**现任职称：** 讲师   
-**电子邮箱：** wangning8687@ouc.edu.cn   
-**办公地址：** 海大崂山校区 信息楼南楼B507   
-**教授课程：** 面向对象的程序设计(C++)，C++课程设计，计算机导论(实验)   
+**现任职称：** 副教授   
+**电子邮箱：** yuyanwei@ouc.edu.cn   
+**办公地址：** 海大崂山校区 信息楼南楼B515   
+**教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 教育背景
 2018/09-至今，中国海洋大学，讲师   
