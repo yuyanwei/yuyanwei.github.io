@@ -2,24 +2,27 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    Yanwei Yu is an associate professor in the Department of Computer Science and Technology of Ocean University of China. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. His Ph.D. advisor is <a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">Prof. Qin Wang</a>. From 2012 to 2013, he was a visiting Ph.D. student under supervision of <a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a> at department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, He was a postdoc researcher collaborating with <a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a> at College of Information Sciencs and Techology of Pennsylvania State Univeristy. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 40 papers in ACM TODS, IEEE TBD, KDD, WWW, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
+    Yanwei Yu is an associate professor in the Department of Computer Science and Technology of Ocean University of China. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. His Ph.D. advisor is <a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">Prof. Qin Wang</a>. From 2012 to 2013, he was a visiting Ph.D. student under supervision of <a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a> at Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, He was a postdoc researcher collaborating with <a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a> at College of Information Sciencs and Techology of Pennsylvania State Univeristy. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 40 papers in ACM TODS, IEEE TBD, KDD, WWW, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
 </p>
 
 ———————————————————————————————————————————————
 
-## 基本信息
-**工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
-**现任职称：** 副教授   
-**电子邮箱：** yuyanwei@ouc.edu.cn   
-**办公地址：** 海大崂山校区 信息楼南楼B515   
-**教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
+## Contact
+**Email:** yuyanwei@ouc.edu.cn   
+**Office:** B515, Xinxi South Building, 238 Songling RD, Laoshan, Shandong 266100   
+**Tel:** +86-15066751350
+**Teaching:** Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)  
+
+## Experience:
+2019/08-Now, Associate Professor, Department of Computer Science and Technology, Ocean University of China  
+2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University
+2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University
 
 ## Education
-2019/08-至今，中国海洋大学，副教授，硕士生导师   
-2016/11-2018/09，宾夕法尼亚州立大学(NTU), 信息科学与技术学院，博士后   
-2012/09-2013/10，伍斯特理工学院(WPI)，计算机系，联合培养博士   
-2008/09-2014/01，北京科技大学，计算机与通信工程学院，硕博连读，博士   
-2004/09-2008/07，聊城大学，计算机学院，学士   
+2016/11-2018/09, Postdoc Researcher, IST, Pennsylvania State Univeristy, United States   
+2012/09-2013/10, Visiting Ph.D. Student, Dept. of Computer Science, Worcester Polytechnic Institute, United States    
+2008/09-2014/01, Ph.D., Computer Science, University of Science and Technology Beijing, China      
+2004/09-2008/07, B.Sc. , School of Computer, Liaocheng University, China   
 
 ## Professional Services
 + 国家自然科学基金通讯评审专家（2015年-今）  
