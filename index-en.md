@@ -25,21 +25,21 @@
 2004/09-2008/07, B.Sc. , School of Computer, Liaocheng University, China   
 
 ## Professional Services
-+ 国家自然科学基金通讯评审专家（2015年-今）  
-+ 山东省人工智能学会理事   
-+ 程序委员会委员（PC Member）：KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
-+ 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
++ Reviewer of National Natural Science Foundation of China (2015-Now)  
++ Board member of ShanDong Association for Artificial Intelligence    
++ PC Member: KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
++ Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## Projects
-[2018-2021] **国家自然科学基金面上项目**, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.6万, **主持人** <span style="color:red;">**New!**</span>   
-[2017-2019] 山东省高等学校科技计划项目, J17KA091, “支持公共位置服务的交通大数据实时挖掘与分析关键技术研究”, 3.5万, **主持人**  
-[2015-2017] 国家自然科学基金青年基金项目, 61403328, “时空大数据流分布式异常事件检测技术研究”, 25万, **主持人**  
-[2014-2016] 吉林大学符号计算与知识工程教育部重点实验室开放基金, 93K172014K13, “分布式异常检测技术研究”, 2万, **主持人**  
-[2016-2019] 国家自然科学基金面上项目, 61572409, “基于CP-nets的多Agent定性博弈”, 61万, 主要参与人  
-[2015-2019] 山东省重点研发计划项目, 2015GSF115009, “山东近岸海域海洋生态大数据云存储平台构建及应用研究”, 20万, 主要参与人  
-[2012-2015] 国家自然科学基金面上项目, 61172049, “基于信道Time/Power度量指标的TOA测距误差模型及其应用研究”, 60万, 主要参与人  
-[2011-2013] 国家自然科学基金青年基金项目, 61003251, “无线传感器网络多信道链路时变特征在线建模技术研究”, 18万, 参与人  
-[2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人  
+[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”,766,000, **PI** <span style="color:red;">**New!**</span>   
+[2017-2019] Shandong HEST Program, J17KA091, “Key Technologies for Real-time Traffic Big Data Mining Supporting Public Location Services”, 35,000, **PI**  
+[2015-2017] NSFC-Youth, 61403328, “Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams”, 250,000, **PI**  
+[2014-2016] Jilin University, 93K172014K13, “Distributed Spatio-Temporal Outlier Detection.”, 20,000, **PI**  
+[2016-2019] NSFC, 61572409, “Multi-agents Qualitative Game Playng Based on CP-nets”, 610,000, Co-PI  
+[2015-2019] Shandong Provincial Key R&D Program, 2015GSF115009, “Cloud Storage Platform for Marine Ecology Big Data in Shandong Offshore”, 200,000, Co-PI  
+[2012-2015] NSFC, 61172049, “Study on TOA Ranging Error model and its application based on Time/Power Metrics of Channel”, 600,000, Participant  
+[2011-2013] NSFC-Youth, 61003251, “Online Modeling for Temporal Variations of Multi-channel Links in Frequency Hopping based Wireless Sensor Networks”, ￥180,000, Participant  
+[2009-2013] NSF, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, $500,000, Participant  
 
 ## Selected Publications（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
@@ -66,4 +66,4 @@
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**更新时间：2020/02/21**
+**Update: 2020/02/21**
