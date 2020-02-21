@@ -10,13 +10,13 @@
 ## Contact
 **Email:** yuyanwei@ouc.edu.cn   
 **Office:** B515, Xinxi South Building, 238 Songling RD, Laoshan, Shandong 266100   
-**Tel:** +86-15066751350
+**Tel:** +86-15066751350    
 **Teaching:** Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)  
 
 ## Experience:
 2019/08-Now, Associate Professor, Department of Computer Science and Technology, Ocean University of China  
-2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University
-2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University
+2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University   
+2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
 
 ## Education
 2016/11-2018/09, Postdoc Researcher, IST, Pennsylvania State Univeristy, United States   
@@ -31,17 +31,17 @@
 + Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## Projects
-[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”,766,000, **PI** <span style="color:red;">**New!**</span>   
-[2017-2019] Shandong HEST Program, J17KA091, “Key Technologies for Real-time Traffic Big Data Mining Supporting Public Location Services”, 35,000, **PI**  
-[2015-2017] NSFC-Youth, 61403328, “Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams”, 250,000, **PI**  
-[2014-2016] Jilin University, 93K172014K13, “Distributed Spatio-Temporal Outlier Detection.”, 20,000, **PI**  
-[2016-2019] NSFC, 61572409, “Multi-agents Qualitative Game Playng Based on CP-nets”, 610,000, Co-PI  
-[2015-2019] Shandong Provincial Key R&D Program, 2015GSF115009, “Cloud Storage Platform for Marine Ecology Big Data in Shandong Offshore”, 200,000, Co-PI  
-[2012-2015] NSFC, 61172049, “Study on TOA Ranging Error model and its application based on Time/Power Metrics of Channel”, 600,000, Participant  
+[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥766,000, **PI** <span style="color:red;">**New!**</span>   
+[2017-2019] Shandong HEST Program, J17KA091, “Key Technologies for Real-time Traffic Big Data Mining Supporting Public Location Services”, ￥35,000, **PI**  
+[2015-2017] **NSFC-Youth**, 61403328, “Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams”, ￥250,000, **PI**  
+[2014-2016] Jilin University, 93K172014K13, “Distributed Spatio-Temporal Outlier Detection.”, ￥20,000, **PI**  
+[2016-2019] NSFC, 61572409, “Multi-agents Qualitative Game Playng Based on CP-nets”, ￥610,000, Co-PI  
+[2015-2019] Shandong Provincial Key R&D Program, 2015GSF115009, “Cloud Storage Platform for Marine Ecology Big Data in Shandong Offshore”, ￥200,000, Co-PI  
+[2012-2015] NSFC, 61172049, “Study on TOA Ranging Error model and its application based on Time/Power Metrics of Channel”, ￥600,000, Participant  
 [2011-2013] NSFC-Youth, 61003251, “Online Modeling for Temporal Variations of Multi-channel Links in Frequency Hopping based Wireless Sensor Networks”, ￥180,000, Participant  
 [2009-2013] NSF, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, $500,000, Participant  
 
-## Selected Publications（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
+## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**) <span style="color:red;">**New!**</span>  
 * 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
