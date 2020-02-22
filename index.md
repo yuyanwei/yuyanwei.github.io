@@ -45,7 +45,7 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
-* Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 （**CCF-B**） 
+* Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF-B**) <span style="color:red;">**New!**</span>
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**) <span style="color:red;">**New!**</span>  
 * 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
