@@ -33,8 +33,8 @@
 + 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
 
 ## 奖励荣誉
-2019年12月获山东省科学技术进步奖二等奖(第六位次)  
-2017年10月获山东省高等学校科学技术奖三等奖(第一位次)   
+2019年12月获山东省科学技术进步奖二等奖（第六位次）  
+2017年10月获山东省高等学校科学技术奖三等奖（第一位次）   
 2014年01月获北京科技大学优秀博士学位论文奖    
 2012年12月获教育部博士研究生国家奖学金 
 
