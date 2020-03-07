@@ -30,7 +30,13 @@
 + 国家自然科学基金通讯评审专家（2015年-今）  
 + 山东省人工智能学会理事   
 + 程序委员会委员（PC Member）：KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
-+ 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
++ 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
+
+## 奖励荣誉
+2019年12月获山东省科学技术进步奖二等奖(第六位次)  
+2017年10月获山东省高等学校科学技术奖三等奖(第一位次)   
+2014年01月获北京科技大学优秀博士学位论文奖    
+2012年12月获教育部博士研究生国家奖学金 
 
 ## 科研项目
 [2018-2021] **国家自然科学基金面上项目**, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.6万, **主持人** <span style="color:red;">**New!**</span>   
@@ -47,7 +53,7 @@
 * Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020 (**Accepted**) <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF-B**) <span style="color:red;">**New!**</span> 
-* Kai Yu, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>
+* Kai Yu, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**)   
 * 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
