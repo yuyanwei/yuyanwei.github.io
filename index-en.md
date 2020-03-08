@@ -2,7 +2,7 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    Yanwei Yu is an associate professor in the <a href="http://it.ouc.edu.cn/">Department of Computer Science and Technology</a> of <a href="http://www.ouc.edu.cn/">Ocean University of China</a>. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. From 2012 to 2013, he was a visiting Ph.D. student at the Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, he was a postdoc researcher at the College of Information Sciencs and Techology of Pennsylvania State Univeristy. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 40 papers in ACM TODS, IEEE TBD, KDD, WWW, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
+    Yanwei Yu is an associate professor in the <a href="http://it.ouc.edu.cn/">Department of Computer Science and Technology</a> of <a href="http://www.ouc.edu.cn/">Ocean University of China</a>. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. From 2012 to 2013, he was a visiting Ph.D. student at the Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, he was a postdoc researcher at the College of Information Sciences and Technology of Pennsylvania State University. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 40 papers in ACM TODS, IEEE TBD, KBS, KDD, WWW, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
 </p>
 
 ———————————————————————————————————————————————
@@ -21,7 +21,7 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
 
 ## Education
-2016/11-2018/09, Postdoc Researcher, IST, Pennsylvania State Univeristy, United States   
+2016/11-2018/09, Postdoc Researcher, IST, Pennsylvania State University, United States   
 2012/09-2013/10, Visiting Ph.D. Student, Dept. of Computer Science, Worcester Polytechnic Institute, United States    
 2008/09-2014/01, Ph.D., Computer Science, University of Science and Technology Beijing, China      
 2004/09-2008/07, B.Sc. , School of Computer, Liaocheng University, China   
