@@ -44,6 +44,7 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 [2009-2013] NSF, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, $500,000, Participant  
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
+* Kai Chen, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020 (**Accepted**) <span style="color:red;">**New!**</span>  
 * Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020 (**Accepted**) <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>   
 * Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF-B**) <span style="color:red;">**New!**</span>  
@@ -71,4 +72,4 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**Update: 2020/03/07**
+**Update: 2020/03/11**
