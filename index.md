@@ -2,7 +2,7 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    现工作于<a href="http://it.ouc.edu.cn/">中国海洋大学计算机科学与技术系</a>，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议4篇、C类期刊/会议2篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+    现工作于<a href="http://it.ouc.edu.cn/">中国海洋大学计算机科学与技术系</a>，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议5篇、B类期刊/会议6篇、C类期刊/会议5篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
 </p>
 海大主页：<a href="http://it.ouc.edu.cn/_s381/jsjkxyjsx_15923/list.psp">计算机科学与技术系</a>  <a href="http://it.ouc.edu.cn/2019/1225/c16101a279901/page.htm">于彦伟</a>
 
@@ -53,7 +53,7 @@
 * Kai Chen, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020 (**Accepted**) <span style="color:red;">**New!**</span>
 * Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020 (**Accepted**) <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
-* Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF-B**) <span style="color:red;">**New!**</span> 
+* Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF B**) <span style="color:red;">**New!**</span> 
 * Kai Yu, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**)   
 * 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
@@ -69,7 +69,7 @@
 * Jianpeng Qi#, <u>Yanwei Yu*</u>, Lihong Wang, Jinglei Liu, Yingjie Wang. An Effective and Efficient Hierarchical K-means Clustering Algorithm. International Journal of Distributed Sensor Networks. 2017, 13(8): 1-16. 
 * <u>Yanwei Yu*</u>, Jianpeng Qi, Yunhui Lu, Yonggang Zhang, Zhaowei Liu. MR-Swarm: Mining Swarms from Big Spatio-Temporal Trajectories using MapReduce. The 17th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL2016), LNCS 9937, pp.568-575, 2016.   
 * Jianpeng Qi#, <u>Yanwei Yu*</u>, Lihong Wang, Jinglei Liu. K*-Means: An Effective and Efficient K-Means Clustering Algorithm. IEEE International Conference on Social Computing and Networking (SocialCom2016). 2016, Atlanta. Page(s).242-249  
-* <u>于彦伟*</u>, 齐建鹏, 宋鹏, 张永刚. 面向不确定移动对象的连续K近邻查询算法. 模式识别与人工智能, 2016, 29(11): 1048-1056. 
+* <u>于彦伟*</u>, 齐建鹏, 宋鹏, 张永刚. 面向不确定移动对象的连续K近邻查询算法. 模式识别与人工智能, 2016, 29(11): 1048-1056. (**CCF B中文期刊**) 
 * <u>于彦伟</u>, 王欢, 王沁, 赵金东. 面向海量数据流的基于密度的簇结构挖掘算法. 软件学报, 2015, 26(5): 1113−1128. (**CCF A中文期刊**) 
 * <u>Yanwei Yu*</u>, Jindong Zhao, Xiaodong Wang, Qin Wang and Yonggang Zhang. Cludoop: An Efficient Distributed Density-based Clustering for Big Data using Hadoop. International Journal of Distributed Sensor Networks. 2015, 11(6), Article 579391  
 * <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Detecting Moving Object Outliers in Massive-Scale Trajectory Streams. 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2014**). New York. Page(s). 422-431 (**CCF A**)  
