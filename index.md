@@ -50,7 +50,7 @@
 [2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人  
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
-* Peng Song, Wenming Zheng, Yanwei Yu, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
+* Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
 * Kai Chen, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>  
 * Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020, 196: 105753 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>    
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
