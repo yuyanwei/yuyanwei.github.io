@@ -50,6 +50,7 @@
 [2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人  
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
+* Fang Liu, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, **Accepeted** (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>
 * Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
 * Kai Chen, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>  
 * Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020, 196: 105753 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>    
@@ -79,4 +80,4 @@
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**更新时间：2020/05/07**
+**更新时间：2020/06/23**
