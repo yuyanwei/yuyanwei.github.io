@@ -50,14 +50,14 @@
 [2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人  
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
-### \*通讯作者
-* Fang Liu, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, **Accepeted** (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>
+\# 指导学生，\* 通讯作者
+* Fang Liu#, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, **Accepeted** (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>
 * Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
-* Kai Chen, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>  
-* Peng Lv, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020, 196: 105753 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>    
+* Kai Chen#, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>  
+* Peng Lv#, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020, 196: 105753 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>    
 * <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF B**) <span style="color:red;">**New!**</span> 
-* Kai Yu, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
+* Kai Yu#, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**)   
 * 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
