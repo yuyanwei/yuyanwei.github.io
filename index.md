@@ -55,24 +55,24 @@
 * Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
 * Kai Chen#, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>  
 * Peng Lv#, <u>Yanwei Yu*</u>, Yangyang Fan, Xianfeng Tang, Xiangrong Tong. Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection. Knowledge-Based Systems, 2020, 196: 105753 (**中科院一区**, **CCF C**) <span style="color:red;">**New!**</span>    
-* <u>Yanwei Yu*</u>, Peng Lv, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
+* <u>Yanwei Yu*</u>, Peng Lv#, Xiangrong Tong, Junyu Dong. Anomaly Detection in High-dimensional Data Based on Autoregressive Flow. 25th International Conference on Database System for Advanced Applications (**DASFAA 2020**), Jeju, South Korea, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF B**) <span style="color:red;">**New!**</span> 
 * Kai Yu#, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**)   
-* 刘芳#, 齐建鹏, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
+* 刘芳#, 齐建鹏#, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
 * Lihong Wang, Qiang Li, <u>Yanwei Yu*</u>, Jinglei Liu. Region Compatibility based Stability Assessment for Decision Trees. Expert Systems with Applications. 2018, 105:112-128. (**CCF C**)   
 * <u>Yanwei Yu*</u>, Hongjian Wang, Zhenhui Li. Inferring Mobility Relationship using Graph embedding. The 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp 2018**), Singapore, 2018 (**CCF A**).  
 * <u>Yanwei Yu*</u>, Huaxiu Yao, Hongjian Wang, Xianfeng Tang, Zhenhui Li. Representation Learning for Large-scale Dynamic Networks. 23rd International Conference on Database System for Advanced Applications (DASFAA 2018), Gold Coast, Australia, 2018 (**CCF B**)   
 * <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Outlier Detection over Massive-Scale Trajectory Streams. ACM Transactions on Database Systems. Volume 42, Issue 2, Article 10, April 2017, 33 pages. (**CCF A**)  
 * Guanzhe Zhao#, <u>Yanwei Yu*</u>, Peng Song, Geng Zhao, Zhe Ji. A Parameter Space Framework for Online Outlier Detection Over High-Volume Data Streams. IEEE Access. 2018, 6(1): 38124-38136 
-* <u>于彦伟*</u>, 贾兆飞, 曹磊, 赵金东, 刘兆伟, 刘惊雷. 面向位置大数据的快速密度聚类算法. 软件学报. 2018, 29(8):2470-2484. (**CCF A中文期刊**) 
+* <u>于彦伟*</u>, 贾兆飞#, 曹磊, 赵金东, 刘兆伟, 刘惊雷. 面向位置大数据的快速密度聚类算法. 软件学报. 2018, 29(8):2470-2484. (**CCF A中文期刊**) 
 * 齐建鹏#, <u>于彦伟*</u>, 王创存, 曹磊, 宋鹏. 基于多核多线程的不确定移动对象连续k近邻查询算法. 浙江大学学报(工学版).  2018, 52(1): 142-150. 
 * Ruoshan Lan#, <u>Yanwei Yu*</u>, Lei Cao, Peng Song, Yingjie Wang. Discovering Moving Object Evolving Groups from Massive Trajectory Streams. International Conference on Mobile Data Management (MDM 2017). Daejeon, South Korea, 2017 (**CCF C**)  
 * Jianpeng Qi#, <u>Yanwei Yu*</u>, Lihong Wang, Jinglei Liu, Yingjie Wang. An Effective and Efficient Hierarchical K-means Clustering Algorithm. International Journal of Distributed Sensor Networks. 2017, 13(8): 1-16. 
-* <u>Yanwei Yu*</u>, Jianpeng Qi, Yunhui Lu, Yonggang Zhang, Zhaowei Liu. MR-Swarm: Mining Swarms from Big Spatio-Temporal Trajectories using MapReduce. The 17th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL2016), LNCS 9937, pp.568-575, 2016.   
+* <u>Yanwei Yu*</u>, Jianpeng Qi#, Yunhui Lu, Yonggang Zhang, Zhaowei Liu. MR-Swarm: Mining Swarms from Big Spatio-Temporal Trajectories using MapReduce. The 17th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL2016), LNCS 9937, pp.568-575, 2016.   
 * Jianpeng Qi#, <u>Yanwei Yu*</u>, Lihong Wang, Jinglei Liu. K*-Means: An Effective and Efficient K-Means Clustering Algorithm. IEEE International Conference on Social Computing and Networking (SocialCom2016). 2016, Atlanta. Page(s).242-249  
-* <u>于彦伟*</u>, 齐建鹏, 宋鹏, 张永刚. 面向不确定移动对象的连续K近邻查询算法. 模式识别与人工智能, 2016, 29(11): 1048-1056. (**CCF B中文期刊**) 
+* <u>于彦伟*</u>, 齐建鹏#, 宋鹏, 张永刚. 面向不确定移动对象的连续K近邻查询算法. 模式识别与人工智能, 2016, 29(11): 1048-1056. (**CCF B中文期刊**) 
 * <u>于彦伟</u>, 王欢, 王沁, 赵金东. 面向海量数据流的基于密度的簇结构挖掘算法. 软件学报, 2015, 26(5): 1113−1128. (**CCF A中文期刊**) 
 * <u>Yanwei Yu*</u>, Jindong Zhao, Xiaodong Wang, Qin Wang and Yonggang Zhang. Cludoop: An Efficient Distributed Density-based Clustering for Big Data using Hadoop. International Journal of Distributed Sensor Networks. 2015, 11(6), Article 579391  
 * <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Detecting Moving Object Outliers in Massive-Scale Trajectory Streams. 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2014**). New York. Page(s). 422-431 (**CCF A**)  
@@ -81,4 +81,4 @@
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**更新时间：2020/06/23**
+**更新时间：2020/07/04**
