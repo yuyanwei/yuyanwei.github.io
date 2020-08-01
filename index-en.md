@@ -45,6 +45,8 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
+* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Peng Song, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <span style="color:red;">**New!**</span>  
 * Fang Liu#, <u>Yanwei Yu*</u>, Peng Song, Yangyang Fan, Xiangrong Tong. Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams. Knowledge-Based Systems, 2020, **Accepeted** (**JCR Q1**, **CCF C**) <span style="color:red;">**New!**</span>  
 * Peng Song, Wenming Zheng, <u>Yanwei Yu</u>, Shifeng Ou. Speech Emotion Recognition Based on Robust Discriminative Sparse Regression. IEEE Transactions on Cognitive and Developmental Systems, 2020 (**In press**) <span style="color:red;">**New!**</span> 
 * Kai Chen#, <u>Yanwei Yu*</u>, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong. Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data.  Knowledge-Based Systems, 2020, 196: 105766 (**JCR Q1**, **CCF C**) <span style="color:red;">**New!**</span>  
@@ -75,4 +77,4 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**Update: 2020/07/04**
+**Update: 2020/08/01**
