@@ -61,10 +61,10 @@
 * Weiqing Yan, Guanghui Yue, Jindong Xu, <u>Yanwei Yu</u>, Kai Wang, Chang Tang, Xiangrong Tong. Shape-optimizing mesh warping method for stereoscopic panorama stitching. Information Sciences, vol. 511, pp. 58-73, Feb. 2020 (**CCF B**) <span style="color:red;">**New!**</span> 
 * Kai Yu#, Lihong Wang, <u>Yanwei Yu*</u>. Ordering-Based Kalman Filter Selective Ensemble for Classification. IEEE Access 8 (2020): 9715-9727. <span style="color:red;">**New!**</span>  
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2019. (**CCF C**)   
-* 刘芳#, 齐建鹏#, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)  
+* 刘芳#, 齐建鹏#, <u>于彦伟*</u>, 曹磊，赵金东. 基于密度的Top-n局部异常点快速检测算法. 自动化学报. 2019, 45(9):1756-1771. (**CCF A中文期刊**)      
 * Xianfeng Tang, Boqing Gong, <u>Yanwei Yu</u>, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang. Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (**WWW 2019**), San Francisco, CA, May 2019. (**CCF A**)   
 * Lihong Wang, Qiang Li, <u>Yanwei Yu*</u>, Jinglei Liu. Region Compatibility based Stability Assessment for Decision Trees. Expert Systems with Applications. 2018, 105:112-128. (**CCF C**)   
-* <u>Yanwei Yu*</u>, Hongjian Wang, Zhenhui Li. Inferring Mobility Relationship using Graph embedding. The 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp 2018**), Singapore, 2018 (**CCF A**).  
+* <u>Yanwei Yu*</u>, Hongjian Wang, Zhenhui Li. Inferring Mobility Relationship using Graph embedding. The 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp 2018**), Singapore, 2018 (**CCF A**) <a href="/papers/yanwei2018inferringubicomp.pdf">[PDF]</a>  
 * <u>Yanwei Yu*</u>, Huaxiu Yao, Hongjian Wang, Xianfeng Tang, Zhenhui Li. Representation Learning for Large-scale Dynamic Networks. 23rd International Conference on Database System for Advanced Applications (DASFAA 2018), Gold Coast, Australia, 2018 (**CCF B**)   
 * <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Outlier Detection over Massive-Scale Trajectory Streams. ACM Transactions on Database Systems. Volume 42, Issue 2, Article 10, April 2017, 33 pages. (**CCF A**)  
 * Guanzhe Zhao#, <u>Yanwei Yu*</u>, Peng Song, Geng Zhao, Zhe Ji. A Parameter Space Framework for Online Outlier Detection Over High-Volume Data Streams. IEEE Access. 2018, 6(1): 38124-38136 
@@ -83,4 +83,4 @@
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) 
 
 
-**更新时间：2020/08/01**
+**更新时间：2020/08/18**
