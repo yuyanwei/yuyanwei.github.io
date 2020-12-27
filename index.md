@@ -86,8 +86,6 @@
 
 [↑Top](#Top)
 
-```<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff&w=a"></script>
-
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2020/08/28**
+**更新时间：2020/12/27**
