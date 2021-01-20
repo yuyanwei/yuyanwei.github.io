@@ -16,6 +16,10 @@
 **办公地址：** 海大崂山校区 信息楼南楼B515   
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
+## 新闻
+2021/01/15 祝贺刘志骏为第一作者的论文“Motif-Preserving Dynamic Attributed Network Embedding”被CCF A类会议WWW2021接收！
+2021/01/14 祝贺代少杰为第一作者的论文“Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties”被CCF B类会议DASFAA2021接收！
+
 ## 工作经历
 2019/08-至今，中国海洋大学，副教授，硕士生导师  
 2018/09-2019/07，烟台大学，副教授，硕士生导师   
