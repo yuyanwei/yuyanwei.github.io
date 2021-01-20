@@ -10,7 +10,11 @@
 ## Contact
 **Email:** yuyanwei@ouc.edu.cn   
 **Office:** B515, Xinxi South Building, 238 Songling RD, Laoshan, Shandong 266100   
-**Tel:** +86-15066751350    
+**Tel:** +86-157252900    
+
+## News
++ 2021/1/15 One paper was accepted by WWW2021. 
++ 2021/1/14 One paper was accepted by DASFAA2021.
 
 ## Teaching
 Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate) 
