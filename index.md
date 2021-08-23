@@ -17,7 +17,7 @@
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2021/08/18 课题组国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
++ <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
 + <span style="color:red;">2021/01/15 祝贺刘志骏为第一作者的论文“Motif-Preserving Dynamic Attributed Network Embedding”被CCF A类会议WWW2021接收！</span>
 + <span style="color:red;">2021/01/14 祝贺代少杰为第一作者的论文“Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties”被CCF B类会议DASFAA2021接收！</span>
 
@@ -35,7 +35,7 @@
 ## 学术兼职
 + 国家自然科学基金通讯评审专家（2015年-今）  
 + 山东省人工智能学会理事   
-+ 程序委员会委员（PC Member）：KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
++ 程序委员会委员（PC Member）：KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
 + 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
 
 ## 奖励荣誉
