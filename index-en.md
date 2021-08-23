@@ -13,6 +13,7 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2021/8/18 NSFC proposal was approved. 
 + 2021/1/15 One paper was accepted by WWW2021. 
 + 2021/1/14 One paper was accepted by DASFAA2021.
 
@@ -37,7 +38,8 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 + Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## Projects
-[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥766,000, **PI** <span style="color:red;">**New!**</span>   
+[2022-2025] **NSFC**, 62176243, “Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications”, ￥580,000, **PI** <span style="color:red;">**New!**</span>    
+[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥766,000, **PI** <span style="color:red;">**New!**</span>    
 [2017-2019] Shandong HEST Program, J17KA091, “Key Technologies for Real-time Traffic Big Data Mining Supporting Public Location Services”, ￥35,000, **PI**  
 [2015-2017] **NSFC-Youth**, 61403328, “Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams”, ￥250,000, **PI**  
 [2014-2016] Jilin University, 93K172014K13, “Distributed Spatio-Temporal Outlier Detection.”, ￥20,000, **PI**  
@@ -49,8 +51,8 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
-* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
-* Shaojie Dai#, <u>Yanwei Yu*</u>, Hao Fan, Junyu Dong. Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties. The 26th International Conference on Database System for Advanced Applications (**DASFAA2021**), Apirl 11-14, 2021, Taipei, China, 2021 (**CCF B**) <a href="#" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
+* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
+* Shaojie Dai#, <u>Yanwei Yu*</u>, Hao Fan, Junyu Dong. Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties. The 26th International Conference on Database System for Advanced Applications (**DASFAA2021**), Apirl 11-14, 2021, Taipei, China, 2021 (**CCF B**) <a href="/papers/shaojie2021pprDASFAA.pdf" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <a href="/papers/zhijun2020fastCIKM.pdf" target="_blank">[PDF]</a>  
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Peng Song, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <a href="/papers/zhijun2020dynamicCIKM.pdf" target="_blank">[PDF]</a>   
 * Jianian Li#, <u>Yanwei Yu*</u>, Peng Song, Yunhong Lu. Student Performance Prediction based on Multi-View Network Embedding. 3rd Chinese Conference on Pattern Recognition and Computer Vision (**PRCV2020**), 2020 <a href="/papers/Jianian2020studentPRCV.pdf" target="_blank">[PDF]</a>   
@@ -87,4 +89,4 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2021/01/20**
+**Update: 2021/08/20**
