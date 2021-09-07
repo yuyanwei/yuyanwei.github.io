@@ -13,6 +13,7 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2021/8/31 One paper was accepted by ICDM2021.  
 + 2021/8/18 NSFC proposal was approved. 
 + 2021/1/15 One paper was accepted by WWW2021. 
 + 2021/1/14 One paper was accepted by DASFAA2021.
@@ -51,6 +52,7 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference. Proceedings of 21st IEEE International Conference on Data Mining (**ICDM2021**), December 07--10, 2021, Auckland, New Zealand, 2021 (**CCF B**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>    
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
 * Shaojie Dai#, <u>Yanwei Yu*</u>, Hao Fan, Junyu Dong. Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties. The 26th International Conference on Database System for Advanced Applications (**DASFAA2021**), Apirl 11-14, 2021, Taipei, China, 2021 (**CCF B**) <a href="/papers/shaojie2021pprDASFAA.pdf" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <a href="/papers/zhijun2020fastCIKM.pdf" target="_blank">[PDF]</a>  
@@ -89,4 +91,4 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2021/08/20**
+**Update: 2021/09/07**
