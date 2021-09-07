@@ -17,9 +17,9 @@
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2021/08/31 祝贺代少杰为第一作者的论文“Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference”被CCF B类会议ICDM2021接收！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
 + <span style="color:red;">2021/01/15 祝贺刘志骏为第一作者的论文“Motif-Preserving Dynamic Attributed Network Embedding”被CCF A类会议WWW2021接收！</span>
-+ <span style="color:red;">2021/01/14 祝贺代少杰为第一作者的论文“Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties”被CCF B类会议DASFAA2021接收！</span>
 
 ## 工作经历
 2019/08-至今，中国海洋大学，副教授，硕士生导师  
@@ -45,7 +45,7 @@
 2012年12月获教育部博士研究生国家奖学金 
 
 ## 科研项目
-[2022-2025] **国家自然科学基金面上项目**, 61776243, “面向大规模复杂时空数据的表征学习方法及其应用研究”,58万, **主持人** <span style="color:red;">**New!**</span>    
+[2022-2025] **国家自然科学基金面上项目**, 62176243, “面向大规模复杂时空数据的表征学习方法及其应用研究”,58万, **主持人** <span style="color:red;">**New!**</span>    
 [2018-2021] **国家自然科学基金面上项目**, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.6万, **主持人** <span style="color:red;">**New!**</span>   
 [2017-2019] 山东省高等学校科技计划项目, J17KA091, “支持公共位置服务的交通大数据实时挖掘与分析关键技术研究”, 3.5万, **主持人**  
 [2015-2017] 国家自然科学基金青年基金项目, 61403328, “时空大数据流分布式异常事件检测技术研究”, 25万, **主持人**  
@@ -58,7 +58,8 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="https://dl.acm.org/doi/pdf/10.1145/3442381.3449821" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
+* Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference. Proceedings of 21st IEEE International Conference on Data Mining (**ICDM2021**), December 07--10, 2021, Auckland, New Zealand, 2021 (**CCF B**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
 * Shaojie Dai#, <u>Yanwei Yu*</u>, Hao Fan, Junyu Dong. Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties. The 26th International Conference on Database System for Advanced Applications (**DASFAA2021**), Apirl 11-14, 2021, Taipei, China, 2021 (**CCF B**) <a href="/papers/shaojie2021pprDASFAA.pdf" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Baode Fan, Junyu Dong. Fast Attributed Multiplex Heterogeneous Network Embedding. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <a href="/papers/zhijun2020fastCIKM.pdf" target="_blank">[PDF]</a>  
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Peng Song, Baode Fan, Junyu Dong. Dynamic Representation Learning for Large-Scale Attributed Networks. Proceedings of the 29th ACM International Conference on Information and Knowledge Management (**CIKM2020**), October 19--23, 2020, Virtual Event, Ireland, 2020 (**CCF B**) <a href="/papers/zhijun2020dynamicCIKM.pdf" target="_blank">[PDF]</a>  
@@ -96,4 +97,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2021/08/20**
+**更新时间：2021/09/07**
