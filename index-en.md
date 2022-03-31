@@ -13,10 +13,9 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2022/3/24 One paper was accepted by ICDE2022. 
 + 2021/8/31 One paper was accepted by ICDM2021.  
-+ 2021/8/18 NSFC proposal was approved. 
-+ 2021/1/15 One paper was accepted by WWW2021. 
-+ 2021/1/14 One paper was accepted by DASFAA2021.
++ 2021/8/18 NSFC proposal was approved.  
 
 ## Teaching
 Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate) 
@@ -52,6 +51,7 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900--912. (**CCF C**) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference. Proceedings of 21st IEEE International Conference on Data Mining (**ICDM2021**), December 07--10, 2021, Auckland, New Zealand, 2021 (**CCF B**) <a href="/papers/shaojie2021temporalICDM.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>    
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>  
