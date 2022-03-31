@@ -38,8 +38,8 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 + Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## Projects
-[2022-2025] **NSFC**, 62176243, “Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications”, ￥580,000, **PI** <span style="color:red;">**New!**</span>    
-[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥766,000, **PI** <span style="color:red;">**New!**</span>    
+[2022-2025] **NSFC**, 62176243, “Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications”, ￥739,000, **PI** <span style="color:red;">**New!**</span>    
+[2018-2021] **NSFC**, 61773331, “Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data”, ￥768,000, **PI**     
 [2017-2019] Shandong HEST Program, J17KA091, “Key Technologies for Real-time Traffic Big Data Mining Supporting Public Location Services”, ￥35,000, **PI**  
 [2015-2017] **NSFC-Youth**, 61403328, “Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams”, ￥250,000, **PI**  
 [2014-2016] Jilin University, 93K172014K13, “Distributed Spatio-Temporal Outlier Detection.”, ￥20,000, **PI**  
