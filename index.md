@@ -17,6 +17,7 @@
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2022/03/24 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI2022接收！</span>
 + <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE2022接收！</span>
 + <span style="color:red;">2021/08/31 祝贺代少杰为第一作者的论文“Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference”被CCF B类会议ICDM2021接收！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
@@ -58,7 +59,7 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-* Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**) <a href="https://arxiv.org/abs/2204.09236" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900--912. (**CCF C**) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference. Proceedings of 21st IEEE International Conference on Data Mining (**ICDM2021**), December 07--10, 2021, Auckland, New Zealand, 2021 (**CCF B**) <a href="/papers/shaojie2021temporalICDM.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>    
