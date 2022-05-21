@@ -17,8 +17,9 @@
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2022/03/24 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI2022接收！</span>
-+ <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE2022接收！</span>
++ <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
++ <span style="color:red;">2022/04/21 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
++ <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE 2022接收！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
 
 ## 工作经历
@@ -58,6 +59,8 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
+* Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Wei Chen#, Shuzhe Li#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu Dong. Mutual Distillation Learning Network for Trajectory-User Linking. Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**), July 23-29, 2022, Messe Wien, Vienna, Austria. (**CCF A**, 接收率=681/4535=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**, 接收率=211/780=27.1%) <a href="https://arxiv.org/abs/2204.09236" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900--912. (**CCF C**) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a>    
@@ -90,8 +93,8 @@
 * <u>于彦伟*</u>, 齐建鹏#, 宋鹏, 张永刚. 面向不确定移动对象的连续K近邻查询算法. 模式识别与人工智能, 2016, 29(11): 1048-1056. (**CCF B中文期刊**) <a href="/papers/yanwei2016continuousPRAI.pdf" target="_blank">[PDF]</a>  
 * <u>于彦伟</u>, 王欢, 王沁, 赵金东. 面向海量数据流的基于密度的簇结构挖掘算法. 软件学报, 2015, 26(5): 1113−1128. (**CCF A中文期刊**) <a href="/papers/yanwei2015densityJOS.pdf" target="_blank">[PDF]</a> 
 * <u>Yanwei Yu*</u>, Jindong Zhao, Xiaodong Wang, Qin Wang and Yonggang Zhang. Cludoop: An Efficient Distributed Density-based Clustering for Big Data using Hadoop. International Journal of Distributed Sensor Networks. 2015, 11(6), Article 579391 <a href="/papers/yanwei2015cludoopIJDSN.pdf" target="_blank">[PDF]</a>  
-* <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Detecting Moving Object Outliers in Massive-Scale Trajectory Streams. 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2014**, 接收率=151/1036=14.6%). New York. Page(s). 422-431 (**CCF A**) <a href="/papers/yanwei2014detectingKDD.pdf" target="_blank">[PDF]</a>  
-* Lei Cao, Di Yang, Qingyang Wang, <u>Yanwei Yu</u>, Jiayuan Wang, Elke Rundensteiner. Scalable Distance-Based Outlier Detection over High-Volume Data Streams. 2014 IEEE 30th International Conference on Data Engineering (**ICDE 2014**, 接收率=89/446=20%). Chicago, USA, Page(s): 76-87 (**CCF A**) <a href="/papers/lei2014scalableICDE.pdf" target="_blank">[PDF]</a>  
+* <u>Yanwei Yu</u>, Lei Cao, Elke Rundensteiner, Qin Wang. Detecting Moving Object Outliers in Massive-Scale Trajectory Streams. 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2014**). New York. Page(s). 422-431 (**CCF A**, 接收率=151/1036=14.6%) <a href="/papers/yanwei2014detectingKDD.pdf" target="_blank">[PDF]</a>  
+* Lei Cao, Di Yang, Qingyang Wang, <u>Yanwei Yu</u>, Jiayuan Wang, Elke Rundensteiner. Scalable Distance-Based Outlier Detection over High-Volume Data Streams. 2014 IEEE 30th International Conference on Data Engineering (**ICDE 2014**). Chicago, USA, Page(s): 76-87 (**CCF A**, 接收率=89/446=20%) <a href="/papers/lei2014scalableICDE.pdf" target="_blank">[PDF]</a>  
 * Peng Song, Wenming Zheng, Shifeng Ou, Yun Jin, Wenming Ma, <u>Yanwei Yu</u>. Joint Transfer Subspace Learning and Feature Selection for Cross-corpus Speech Emotion Recognition.  International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018), Calgary, Canada, 2018 (**CCF B**)  
 * Peng Song, Wenming Zheng, Shifeng Ou, Xinran Zhang, Yun Jin, Jinglei Liu, <u>Yanwei Yu</u>. Cross-corpus speech emotion recognition based on transfer non-negative matrix factorization. Speech Communication, 2016, 83:34–41. (**CCF B**) <a href="/papers/peng2018CrossSpeechCom.pdf" target="_blank">[PDF]</a>  
 
@@ -99,4 +102,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/04/22**
+**更新时间：2022/05/21**
