@@ -13,9 +13,10 @@
 **Tel:** +86-157252900    
 
 ## News
-+ 2022/4/21 One paper was accepted by IJCAI2022.
-+ 2022/3/24 One paper was accepted by ICDE2022. 
-+ 2021/8/31 One paper was accepted by ICDM2021.  
++ 2022/5/19 Two paper was accepted by KDD 2022.
++ 2022/4/21 One paper was accepted by IJCAI 2022.
++ 2022/3/24 One paper was accepted by ICDE 2022. 
++ 2021/8/31 One paper was accepted by ICDM 2021.  
 + 2021/8/18 NSFC proposal was approved.  
 
 ## Teaching
@@ -52,8 +53,10 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
-* Wei Chen#, Shuzhe Li#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu Dong. Mutual Distillation Learning Network for Trajectory-User Linking. Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**), July 23-29, 2022, Messe Wien, Vienna, Austria. (**CCF A**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
-* Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Wei Chen#, Shuzhe Li#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu Dong. Mutual Distillation Learning Network for Trajectory-User Linking. Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**), July 23-29, 2022, Messe Wien, Vienna, Austria. (**CCF A**) <a href="https://arxiv.org/abs/2205.03773" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
+* Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**) <a href="https://arxiv.org/abs/2204.09236" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900--912. (**CCF C**) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a>     
 * Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference. Proceedings of 21st IEEE International Conference on Data Mining (**ICDM2021**), December 07--10, 2021, Auckland, New Zealand, 2021 (**CCF B**) <a href="/papers/shaojie2021temporalICDM.pdf" target="_blank">[PDF]</a>        
 * Zhijun Liu#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Motif-Preserving Dynamic Attributed Network Embedding. Proceedings of the Web Conference 2021 (**WWW2021**), Apirl 19--23, 2021, Virtual Event, Ljubljana, Slovenia, 2021 (**CCF A**) <a href="/papers/zhijun2021motifWWW.pdf" target="_blank">[PDF]</a>      
@@ -93,4 +96,4 @@ Discrete Mathematics I (Undergrad), Data Warehousing and Data Mining (Graduate)
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2022/04/22**
+**Update: 2022/05/21**
