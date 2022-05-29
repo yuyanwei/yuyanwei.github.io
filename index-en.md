@@ -53,6 +53,7 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**JCR Q1**) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>
 * Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, acceptance rate=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, acceptance rate=254/1695=15%) <a href="#" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Wei Chen#, Shuzhe Li#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu Dong. Mutual Distillation Learning Network for Trajectory-User Linking. Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI**), July 23-29, 2022, Messe Wien, Vienna, Austria. (**CCF A**, acceptance rate=681/4535=15%) <a href="https://arxiv.org/abs/2205.03773" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
@@ -96,4 +97,4 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2022/05/21**
+**Update: 2022/05/29**
