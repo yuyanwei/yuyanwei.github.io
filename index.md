@@ -17,7 +17,7 @@
 **教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
-+ <span style="color:red;">2022/05/19 祝贺代少杰为第一作者的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
++ <span style="color:red;">2022/09/04 祝贺代少杰为第一作者的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
 + <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
 + <span style="color:red;">2022/04/21 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
 + <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE 2022接收！</span>
@@ -105,4 +105,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/05/29**
+**更新时间：2022/09/05**
