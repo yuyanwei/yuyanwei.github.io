@@ -13,6 +13,7 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2022/9/04 One paper was accepted by ACM TKDD.
 + 2022/5/19 Two paper was accepted by KDD 2022.
 + 2022/4/21 One paper was accepted by IJCAI 2022.
 + 2022/3/24 One paper was accepted by ICDE 2022. 
@@ -53,6 +54,7 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Shaojie Dai#, Jinshuai Wang, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, accepted) <a href="#" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>  
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**JCR Q1**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>
 * Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, acceptance rate=254/1695=15%) <a href="/papers/pengyang2022multiplexKDD.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
 * Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, acceptance rate=254/1695=15%) <a href="/papers/chaohuang2022multibehaviorKDD.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
