@@ -14,9 +14,11 @@
 **现任职称：** 副教授   
 **电子邮箱：** yuyanwei@ouc.edu.cn   
 **办公地址：** 海大崂山校区 信息楼南楼B515   
-**教授课程：** 离散数学I(本科生)，数据仓库与数据挖掘(研究生) 
+**教授课程：** 数据库系统(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2022/09/04 课题组申报的项目“面向大规模、高维、流式大数据的高效异常检测方法研究”获得2022年度山东省人工智能自然科学二等奖！</span>
++ <span style="color:red;">2022/09/04 祝贺刘志骏同学的硕士论文“大规模属性网络的表征学习方法研究”被评选为2022年度山东省人工智能优秀硕士学位论文！</span>
 + <span style="color:red;">2022/09/04 祝贺代少杰为第一作者的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
 + <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
 + <span style="color:red;">2022/04/21 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
