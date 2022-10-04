@@ -10,7 +10,7 @@
 ———————————————————————————————————————————————
 
 ## 基本信息
-**工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/main.htm">信息科学与工程学院</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a>   
+**工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/main.htm">信息科学与工程学部</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a>   
 **现任职称：** 副教授   
 **电子邮箱：** yuyanwei@ouc.edu.cn   
 **办公地址：** 海大崂山校区 信息楼南楼B515   
@@ -44,6 +44,8 @@
 + 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
 
 ## 奖励荣誉
+2022年10月获山东省人工智能自然科学奖二等奖（第一位次）
+2021年12月获山东省自然科学奖三等奖（第三位次）
 2019年12月获山东省科学技术进步奖二等奖（第六位次）  
 2017年10月获山东省高等学校科学技术奖三等奖（第一位次）   
 2014年01月获北京科技大学优秀博士学位论文奖    
@@ -108,4 +110,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/09/05**
+**更新时间：2022/10/04**
