@@ -3,7 +3,7 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    现工作于<a href="http://it.ouc.edu.cn/">中国海洋大学计算机科学与技术系</a>，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议10篇、B类期刊/会议10篇、C类期刊/会议6篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+    中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/">计算机科学与技术学院</a>副教授，博士生导师，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在ACM TODS、IEEE TBD、KDD、WWW、UbiComp、ICDE、DASFAA等国际高水平期刊和会议上发表论文40余篇，包括中国计算机学会A类顶级期刊/会议10篇、B类期刊/会议10篇、C类期刊/会议6篇、A类顶级中文期刊4篇。主持国家自然科学基金项目2项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
 </p>
 中国海洋大学主页：<a href="http://it.ouc.edu.cn/_s381/jsjkxyjsx_15923/list.psp">计算机科学与技术系</a>  <a href="http://it.ouc.edu.cn/2019/1225/c16101a279901/page.htm">于彦伟</a>
 
@@ -24,7 +24,8 @@
 + <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
 
 ## 工作经历
-2019/08-至今，中国海洋大学，副教授，硕士生导师  
+2022/10-至今，中国海洋大学，副教授，博士生导师、硕士生导师  
+2019/08-2022/09，中国海洋大学，副教授，硕士生导师  
 2018/09-2019/07，烟台大学，副教授，硕士生导师   
 2014/03-2018/08，烟台大学，讲师，硕士生导师 
 
@@ -60,7 +61,7 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-* Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, accepted) <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
+* Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**中科院一区Top期刊**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>   <span style="color:red;">**New!**</span>
 * Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/pengyang2022multiplexKDD.pdf" target="_blank">[PDF]</a>  <a href="https://github.com/NSSSJSS/MHGCN" target="_blank">[Code]</a> <a href="/bibfile/yuKDD2022.txt" target="_blank">[Bib]</a> <a href="/slidesfile/yuKDD2022slides.pdf" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
 * Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/chaohuang2022multibehaviorKDD.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
