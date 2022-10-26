@@ -2,14 +2,14 @@
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
-    Yanwei Yu is an associate professor in the <a href="http://it.ouc.edu.cn/">Department of Computer Science and Technology</a> of <a href="http://www.ouc.edu.cn/">Ocean University of China</a>. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. From 2012 to 2013, he was a visiting Ph.D. student at the Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, he was a postdoc researcher at the College of Information Sciences and Technology of Pennsylvania State University. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 40 papers in ACM TODS, IEEE TBD, KBS, KDD, WWW, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
+    Yanwei Yu is a professor in the <a href="http://it.ouc.edu.cn/">College of Computer Science and Technology</a> of <a href="http://www.ouc.edu.cn/">Ocean University of China</a>. He received the B.S. degree from Liaocheng University, China, in 2008 and the Ph.D. degree from University of Science and Technology Beijing, China, in 2014, respectively. From 2012 to 2013, he was a visiting Ph.D. student at the Department of Computer Science of Worcester Polytechnic Institute. From 2016 to 2018, he was a postdoc researcher at the College of Information Sciences and Technology of Pennsylvania State University. His research interests include data mining, machine learning, distributed computing and database systems. He published more than 50 papers in TODS, TKDD, TBD, KDD, WWW, IJCAI, UbiComp, ICDE, DASFAA and other top journals and conferences. His research is funded by the National Natural Science Foundation of China, the National Science Foundations, the Natural Science Foundation of Shandong Province, and the Shandong Provincial Key R&D Program. 
 </p>
 
 ———————————————————————————————————————————————
 
 ## Contact
 **Email:** yuyanwei@ouc.edu.cn   
-**Office:** B515, Xinxi South Building, 238 Songling RD, Laoshan, Shandong 266100   
+**Office:** B407, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266100   
 **Tel:** +86-157252900    
 
 ## News
@@ -24,7 +24,8 @@
 Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousing and Data Mining (Graduate) 
 
 ## Experience
-2019/08-Now, Associate Professor, Department of Computer Science and Technology, Ocean University of China  
+2022/10-Now, Professor, College of Computer Science and Technology, Ocean University of China
+2019/08-2022/09, Associate Professor, College of Computer Science and Technology, Ocean University of China  
 2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University   
 2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
 
@@ -37,7 +38,7 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 ## Professional Services
 + Reviewer of National Natural Science Foundation of China (2015-Now)  
 + Board member of ShanDong Association for Artificial Intelligence    
-+ PC Member: KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
++ PC Member: WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016   
 + Reviewer: IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.    
 
 ## Projects
@@ -99,4 +100,4 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2022/09/05**
+**Update: 2022/10/26**
