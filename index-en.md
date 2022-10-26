@@ -9,7 +9,7 @@
 
 ## Contact
 **Email:** yuyanwei@ouc.edu.cn   
-**Office:** B407, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266100   
+**Office:** B407, Xinxi South Building, 1299 Sansha RD, Qingdao, Shandong 266400   
 **Tel:** +86-157252900    
 
 ## News
