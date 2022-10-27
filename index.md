@@ -47,12 +47,12 @@
 + 期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.   
 
 ## 奖励荣誉
-2022年10月获山东省人工智能自然科学奖二等奖（第一位次）
-2021年12月获山东省自然科学奖三等奖（第三位次）
-2019年12月获山东省科学技术进步奖二等奖（第六位次）  
-2017年10月获山东省高等学校科学技术奖三等奖（第一位次）   
+2022年10月获山东省人工智能自然科学奖二等奖（第一位次）    
+2021年12月获山东省自然科学奖三等奖（第三位次）   
+2019年12月获山东省科学技术进步奖二等奖（第六位次）     
+2017年10月获山东省高等学校科学技术奖三等奖（第一位次）     
 2014年01月获北京科技大学优秀博士学位论文奖    
-2012年12月获教育部博士研究生国家奖学金 
+2012年12月获教育部博士研究生国家奖学金   
 
 ## 科研项目
 [2022-2025] **国家自然科学基金面上项目**, 62176243, “面向大规模复杂时空数据的表征学习方法及其应用研究”,73.9万, **主持人** <span style="color:red;">**New!**</span>    
