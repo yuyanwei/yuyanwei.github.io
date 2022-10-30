@@ -24,8 +24,8 @@
 Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousing and Data Mining (Graduate) 
 
 ## Experience
-2022/10-Now, Professor, College of Computer Science and Technology, Ocean University of China
-2019/08-2022/09, Associate Professor, College of Computer Science and Technology, Ocean University of China  
+2022/10-Now, Professor, College of Computer Science and Technology, Ocean University of China    
+2019/08-2022/09, Associate Professor, College of Computer Science and Technology, Ocean University of China    
 2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University   
 2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
 
