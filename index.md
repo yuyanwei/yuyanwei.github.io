@@ -17,17 +17,18 @@
 **教授课程：** 数据库系统(本科生)，大数据技术先导实验(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2022/05/19 祝贺秦广明一作的论文“Graph Structure Learning on User Mobility Data for Social Relationship Inference”被CCF A类会议AAAI 2023接收！</span>
 + <span style="color:red;">2022/10/19 课题组申报的项目“面向大规模、高维、流式大数据的高效异常检测方法研究”获得2022年度山东省人工智能自然科学二等奖！</span>
 + <span style="color:red;">2022/10/19 祝贺刘志骏同学的硕士论文“大规模属性网络的表征学习方法研究”被评选为2022年度山东省人工智能优秀硕士学位论文！</span>
-+ <span style="color:red;">2022/09/04 祝贺代少杰为第一作者的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
-+ <span style="color:red;">2022/05/19 祝贺于澎洋为第一作者的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
-+ <span style="color:red;">2022/04/21 祝贺陈伟为第一作者的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
++ <span style="color:red;">2022/09/04 祝贺代少杰一作的论文“Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference”被CCF B类期刊TKDD接收！</span>
++ <span style="color:red;">2022/05/19 祝贺于澎洋一作的论文“Multiplex Heterogeneous Graph Convolutional Network”被CCF A类会议KDD 2022接收！</span>
++ <span style="color:red;">2022/04/21 祝贺陈伟一作的论文“Mutual Distillation Learning Network for Trajectory-User Linking”被CCF A类会议IJCAI 2022接收！</span>
 + <span style="color:red;">2022/03/24 祝贺郜中强和程传奇为共同一作的论文“Scalable Motif Counting for Large-scale Temporal Graphs”被CCF A类会议ICDE 2022接收！</span>
 + <span style="color:red;">2021/08/18 国家自然科学基金面上项目“面向大规模复杂时空数据的表征学习方法及其应用研究”（批准号：62176243，资助金额：58万）成功获批！</span>
 
 ## 工作经历
-2022/10-至今，中国海洋大学，教授，博士生导师、硕士生导师  
-2019/08-2022/09，中国海洋大学，副教授，硕士生导师  
+2022/11-至今，中国海洋大学，教授，博士生导师、硕士生导师  
+2019/08-2022/10，中国海洋大学，副教授，硕士生导师  
 2018/09-2019/07，烟台大学，副教授，硕士生导师   
 2014/03-2018/08，烟台大学，讲师，硕士生导师 
 
@@ -68,10 +69,12 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
+* Guangming Qin#, Lexue Song#, <u>Yanwei Yu*</u>, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong, Graph Structure Learning on User Mobility Data for Social Relationship Inference. Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**), February 7--14, 2023, Washington DC, USA. (**CCF A**, 接收率=1721/8777=19.6%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
+* Bingqi Yan, Geng Zhao, Lexue Song, <u>Yanwei Yu*</u>, Junyu Dong. PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction. World Wide Web Journal (**WWWJ**), 2022 (**CCF B**, Online) <a href="https://link.springer.com/article/10.1007/s11280-022-01121-3" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span> 
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**中科院一区Top期刊**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>   <span style="color:red;">**New!**</span>
-* Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/pengyang2022multiplexKDD.pdf" target="_blank">[PDF]</a>  <a href="https://github.com/NSSSJSS/MHGCN" target="_blank">[Code]</a> <a href="/bibfile/yuKDD2022.txt" target="_blank">[Bib]</a> <a href="/slidesfile/yuKDD2022slides.pdf" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
-* Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/chaohuang2022multibehaviorKDD.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
+* Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**), August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/pengyang2022multiplexKDD.pdf" target="_blank">[PDF]</a>  <a href="https://github.com/NSSSJSS/MHGCN" target="_blank">[Code]</a> <a href="/bibfile/yuKDD2022.txt" target="_blank">[Bib]</a> <a href="/slidesfile/yuKDD2022slides.pdf" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
+* Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, <u>Yanwei Yu</u>, Chenliang Li. Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**), August 14-18, 2022, Washington DC, USA. (**CCF A**, 接收率=254/1695=15%) <a href="/papers/chaohuang2022multibehaviorKDD.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
 * Wei Chen#, Shuzhe Li#, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu Dong. Mutual Distillation Learning Network for Trajectory-User Linking. Proceedings of the 31st International Joint Conference on Artificial Intelligence (**IJCAI 2022**), July 23-29, 2022, Messe Wien, Vienna, Austria. (**CCF A**, 接收率=681/4535=15%) <a href="/papers/weichen2022mutualIJCAI.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>  <span style="color:red;">**New!**</span> 
 * Zhongqiang Gao#, Chuanqi Cheng#, <u>Yanwei Yu*</u>, Lei Cao, Chao Huang, Junyu Dong. Scalable Motif Counting for Large-scale Temporal Graphs. Proceedings of 38th IEEE International Conference on Data Engineering (**ICDE 2022**), May 9th-12th, 2022, Kuala Lumpur, Malaysia. (**CCF A**, 接收率=211/780=27.1%) <a href="/papers/zhongqiang2022scalableICDE.pdf" target="_blank">[PDF]</a>   <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
 * <u>Yanwei Yu*</u>, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li. Citywide Traffic Volume Inference with Surveillance Camera Records. IEEE Transactions on Big Data. 2021, 7(6):900--912. (**CCF C**) <a href="/papers/Yanwei2021CitywideTBD.pdf" target="_blank">[PDF]</a> <a href="#" target="_blank">[Bib]</a>     
@@ -113,4 +116,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/10/26**
+**更新时间：2022/11/20**
