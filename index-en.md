@@ -13,6 +13,7 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2022/11/19 One paper was accepted by AAAI 2023.
 + 2022/9/04 One paper was accepted by ACM TKDD.
 + 2022/5/19 Two paper was accepted by KDD 2022.
 + 2022/4/21 One paper was accepted by IJCAI 2022.
@@ -24,8 +25,8 @@
 Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousing and Data Mining (Graduate) 
 
 ## Experience
-2022/10-Now, Professor, College of Computer Science and Technology, Ocean University of China    
-2019/08-2022/09, Associate Professor, College of Computer Science and Technology, Ocean University of China    
+2022/11-Now, Professor, College of Computer Science and Technology, Ocean University of China    
+2019/08-2022/10, Associate Professor, College of Computer Science and Technology, Ocean University of China    
 2018/09-2019/08, Associate Professor, School of Computer and Control Engineering, Yantai University   
 2014/03-2018/08, Assistant Professor, School of Computer and Control Engineering, Yantai University  
 
@@ -55,6 +56,8 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Guangming Qin#, Lexue Song#, <u>Yanwei Yu*</u>, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong, Graph Structure Learning on User Mobility Data for Social Relationship Inference. Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**), February 7--14, 2023, Washington DC, USA. (**CCF A**, acceptance rate=1721/8777=19.6%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
+* Bingqi Yan#, Geng Zhao, Lexue Song#, <u>Yanwei Yu*</u>, Junyu Dong. PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction. World Wide Web Journal (**WWWJ**), 2022 (**CCF B**, Online) <a href="https://link.springer.com/article/10.1007/s11280-022-01121-3" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span> 
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, accepted) <a href="#" target="_blank">[PDF]</a> <span style="color:red;">**New!**</span>  
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**JCR Q1**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span>
 * Pengyang Yu#, Chaofan Fu#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong, Multiplex Heterogeneous Graph Convolutional Network. Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD 2022**)，August 14-18, 2022, Washington DC, USA. (**CCF A**, acceptance rate=254/1695=15%) <a href="/papers/pengyang2022multiplexKDD.pdf" target="_blank">[PDF]</a>  <span style="color:red;">**New!**</span> 
@@ -100,4 +103,4 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2022/10/26**
+**Update: 2022/11/20**
