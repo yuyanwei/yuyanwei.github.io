@@ -4,8 +4,6 @@
 <p style="width:970px;">
     <img src="/cai.jpg" align="right" width="150" hspace="5" vspace="5">
     中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/">计算机科学与技术学院</a>副教授、硕士生导师，中国海洋大学“青年英才工程”第三层次入选者。博士毕业于西北工业大学计算机学院，导师为<a href="https://teacher.nwpu.edu.cn/liuhuiying">刘慧英教授</a>，曾于2017年10月-2018年4月赴加拿大阿尔伯塔大学进行博士联合培养，导师为<a href="http://webdocs.cs.ualberta.ca/~yang/index.html">Prof. Yee-Hong Yang</a>，2018年5月-2018年12月在西安交通大学进行访问，合作导师为<a href="https://gr.xjtu.edu.cn/zh/web/jinjun/home">王进军教授</a>, 2020年10月-2022年9月在香港中文大学（深圳）和中国科学技术大学进行博后工作，合作导师为<a href="https://scholar.google.com/citations?user=IOagLnEAAAAJ&hl=zh-CN">Prof. David Zhang 张大鹏教授</a>和<a href="https://scholar.google.com/citations?user=5bInRDEAAAAJ&hl=zh-CN">吴枫教授</a>，2022年加入中国海洋大学<a href="http://it.ouc.edu.cn/djy/main.htm">董军宇教授</a>团队。主要研究方向为<u>计算机视觉</u>、<u>深度学习</u>、<u>机器学习</u>、<u>水平集</u>、<u>图像恢复</u>、<u>图像超分辨</u>、<u>图像去噪</u>、<u>医学图像处理</u>以及<u>水下图像处理等</u>。 相关工作已发表在国内外重要学术期刊: IEEE TIP、PR、Information Sciences等。主持国家自然科学基金、山东省自然科学基金、中国博士后科学基金、中国海洋大学青年英才工程第三层次科研启动经费等6项，参与多项国家自然科学基金、深圳市重点研发计划项目。
-
-
 ———————————————————————————————————————————————
 
 ## 招生信息
