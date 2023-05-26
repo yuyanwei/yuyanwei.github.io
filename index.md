@@ -17,6 +17,7 @@
 **教授课程：** 数据库系统(本科生)，大数据技术先导实验(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2023/05/17 祝贺付超凡一作的论文“Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling”被CCF A类会议KDD 2023接收！</span>   
 + <span style="color:red;">2022/11/19 祝贺秦广明一作的论文“Graph Structure Learning on User Mobility Data for Social Relationship Inference”被CCF A类会议AAAI 2023接收！</span>
 + <span style="color:red;">2022/10/19 课题组申报的项目“面向大规模、高维、流式大数据的高效异常检测方法研究”获得2022年度山东省人工智能自然科学二等奖！</span>
 + <span style="color:red;">2022/10/19 祝贺刘志骏同学的硕士论文“大规模属性网络的表征学习方法研究”被评选为2022年度山东省人工智能优秀硕士学位论文！</span>
@@ -69,7 +70,8 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
-* Guangming Qin#, Lexue Song#, <u>Yanwei Yu*</u>, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong, Graph Structure Learning on User Mobility Data for Social Relationship Inference. Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**), February 7--14, 2023, Washington DC, USA. (**CCF A**, 接收率=1721/8777=19.6%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
+* Chaofan Fu#, Guanjie Zheng, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**), August 6--10, 2023, Long Beach, CA, USA. (**CCF A**, 接收率=313/1416=22.1%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>    
+* Guangming Qin#, Lexue Song#, <u>Yanwei Yu*</u>, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong. Graph Structure Learning on User Mobility Data for Social Relationship Inference. Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**), February 7--14, 2023, Washington DC, USA. (**CCF A**, 接收率=1721/8777=19.6%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
 * Bingqi Yan#, Geng Zhao, Lexue Song#, <u>Yanwei Yu*</u>, Junyu Dong. PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction. World Wide Web Journal (**WWWJ**), 2022 (**CCF B**, Online) <a href="https://link.springer.com/article/10.1007/s11280-022-01121-3" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span> 
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
 * Kai Wang#, <u>Yanwei Yu*</u>, Chao Huang, Zhongying Zhao, Junyu Dong. Heterogeneous Graph Neural Network for Attribute Completion. Knowledge-Based Systems. 2022. (**中科院一区Top期刊**, **CCF C**) <a href="/papers/kai2022heterogeneousKBS.pdf" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>   <span style="color:red;">**New!**</span>
@@ -117,4 +119,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2022/12/03**
+**更新时间：2023/05/26**
