@@ -13,6 +13,7 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2023/6/10 One paper was accepted by Knowledge-Based Systems.
 + 2023/5/17 One paper was accepted by KDD 2023.
 + 2022/11/19 One paper was accepted by AAAI 2023.
 + 2022/9/04 One paper was accepted by ACM TKDD.
@@ -58,7 +59,11 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
 * Chaofan Fu#, Guanjie Zheng, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**), August 6--10, 2023, Long Beach, CA, USA. (**CCF A**, 接收率=313/1416=22.1%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>    
-* Shuzhe Li#, Wei Chen#, Bingqi Yan#, Zhen Li#, <u>Yanwei Yu*</u>. Self-Supervised Contrastive Representation Learning for Large-Scale Trajectories. Future Generation Computer Systems (**FGCS**), 2023 (**JCR Q1**, **CCF C**, Accepted) <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
+* Yunfei Shi#, Bin Wang, <u>Yanwei Yu*</u>, Xianfeng Tang, Chao Huang, Junyu Dong. Robust Anomaly Detection for Multivariate Time Series through Temporal GCNs and Attention-based VAE. Knowledge-Based Systems, 2023 (**JCR Q1**, **CCF C**, Accepted) <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>   
+* Shuzhe Li#, Wei Chen#, Bingqi Yan#, Zhen Li#, <u>Yanwei Yu*</u>. Self-Supervised Contrastive Representation Learning for Large-Scale Trajectories. Future Generation Computer Systems (**FGCS**), 2023 (**JCR Q1**, **CCF C**, Accepted) <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>    
+* Shixuan Zhou, Peng Song, <u>Yanwei Yu</u>, Wenming Zheng. Structural regularization based discriminative multi-view unsupervised feature selection. Knowledge-Based Systems. 272 (2023): 110601. (**JCR Q1**, **CCF C**) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>   
+* Chengxin Ding, Zhongying Zhao, Chao Li, <u>Yanwei Yu</u>, Qingtian Zeng. Session-based recommendation with hypergraph convolutional networks and sequential information embeddings. Expert Systems with Applications. 223 (2023): 119875. (**JCR Q1**, **CCF C**) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>    
+* Yeyu Yan, Chao Li, <u>Yanwei Yu</u>, Xiangju Li, Zhongying Zhao. OSGNN: Original graph and Subgraph aggregated Graph Neural Network. Expert Systems with Applications. 225 (2023): 120115. (**JCR Q1**, **CCF C**) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>     
 * Guangming Qin#, Lexue Song#, <u>Yanwei Yu*</u>, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong, Graph Structure Learning on User Mobility Data for Social Relationship Inference. Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**), February 7--14, 2023, Washington DC, USA. (**CCF A**, acceptance rate=1721/8777=19.6%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span> 
 * Bingqi Yan#, Geng Zhao, Lexue Song#, <u>Yanwei Yu*</u>, Junyu Dong. PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction. World Wide Web Journal (**WWWJ**), 2022 (**CCF B**, Online) <a href="https://link.springer.com/article/10.1007/s11280-022-01121-3" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>    
 * Shaojie Dai#, Jinshuai Wang#, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022 (**CCF B**, Online) <a href="https://dl.acm.org/doi/pdf/10.1145/3564754" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span> 
@@ -107,4 +112,4 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**Update: 2023/05/26**
+**Update: 2023/06/11**
