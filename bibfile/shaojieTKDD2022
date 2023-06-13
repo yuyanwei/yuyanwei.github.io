@@ -1,0 +1,10 @@
+@article{dai2023dynamic,
+  title={Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference},
+  author={Dai, Shaojie and Wang, Jinshuai and Huang, Chao and Yu, Yanwei and Dong, Junyu},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={17},
+  number={4},
+  pages={1--22},
+  year={2023},
+  publisher={ACM New York, NY}
+}
