@@ -1,0 +1,9 @@
+@article{wang2022heterogeneous,
+  title={Heterogeneous graph neural network for attribute completion},
+  author={Wang, Kai and Yu, Yanwei and Huang, Chao and Zhao, Zhongying and Dong, Junyu},
+  journal={Knowledge-Based Systems},
+  volume={251},
+  pages={109171},
+  year={2022},
+  publisher={Elsevier}
+}
