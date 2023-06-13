@@ -1,0 +1,7 @@
+@inproceedings{yang2022multi,
+  title={Multi-behavior hypergraph-enhanced transformer for sequential recommendation},
+  author={Yang, Yuhao and Huang, Chao and Xia, Lianghao and Liang, Yuxuan and Yu, Yanwei and Li, Chenliang},
+  booktitle={Proceedings of the 28th ACM SIGKDD conference on knowledge discovery and data mining},
+  pages={2263--2274},
+  year={2022}
+}
