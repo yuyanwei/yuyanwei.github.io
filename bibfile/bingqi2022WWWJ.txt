@@ -1,0 +1,8 @@
+@article{yan2022precln,
+  title={PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction},
+  author={Yan, Bingqi and Zhao, Geng and Song, Lexue and Yu, Yanwei and Dong, Junyu},
+  journal={World Wide Web},
+  pages={1--23},
+  year={2022},
+  publisher={Springer}
+}
