@@ -1,0 +1,6 @@
+@article{chen2022mutual,
+  title={Mutual Distillation Learning Network for Trajectory-User Linking},
+  author={Chen, Wei and Li, Shuzhe and Huang, Chao and Yu, Yanwei and Jiang, Yongguo and Dong, Junyu},
+  journal={arXiv preprint arXiv:2205.03773},
+  year={2022}
+}
