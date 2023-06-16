@@ -1,0 +1,8 @@
+@inproceedings{dai2021personalized,
+  title={Personalized poi recommendation: spatio-temporal representation learning with social tie},
+  author={Dai, Shaojie and Yu, Yanwei and Fan, Hao and Dong, Junyu},
+  booktitle={Database Systems for Advanced Applications: 26th International Conference, DASFAA 2021, Taipei, Taiwan, April 11--14, 2021, Proceedings, Part I 26},
+  pages={558--574},
+  year={2021},
+  organization={Springer}
+}
