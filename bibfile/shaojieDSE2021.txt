@@ -1,0 +1,10 @@
+@article{dai2022spatio,
+  title={Spatio-temporal representation learning with social tie for personalized poi recommendation},
+  author={Dai, Shaojie and Yu, Yanwei and Fan, Hao and Dong, Junyu},
+  journal={Data Science and Engineering},
+  volume={7},
+  number={1},
+  pages={44--56},
+  year={2022},
+  publisher={Springer}
+}
