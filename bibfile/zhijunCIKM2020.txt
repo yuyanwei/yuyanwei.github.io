@@ -1,0 +1,7 @@
+@inproceedings{liu2020fast,
+  title={Fast attributed multiplex heterogeneous network embedding},
+  author={Liu, Zhijun and Huang, Chao and Yu, Yanwei and Fan, Baode and Dong, Junyu},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={995--1004},
+  year={2020}
+}
