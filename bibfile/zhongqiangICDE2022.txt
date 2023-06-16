@@ -1,0 +1,8 @@
+@inproceedings{gao2022scalable,
+  title={Scalable motif counting for large-scale temporal graphs},
+  author={Gao, Zhongqiang and Cheng, Chuanqi and Yu, Yanwei and Cao, Lei and Huang, Chao and Dong, Junyu},
+  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)},
+  pages={2656--2668},
+  year={2022},
+  organization={IEEE}
+}
