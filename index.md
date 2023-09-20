@@ -5,13 +5,14 @@
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
     中国海洋大学信息科学与工程学部<a href="http://it.ouc.edu.cn/">计算机科学与技术学院</a>教授、博士生导师，中国海洋大学“青年英才工程”第一层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在TODS、TKDD、TBD、KDD、WWW、AAAI、IJCAI、UbiComp、ICDE、CIKM、DASFAA等国际期刊和会议上发表论文60余篇，其中中国计算机学会A/B类推荐会议/期刊、ACM/IEEE汇刊、中科院一区Top期刊40余篇、A类中文期刊4篇。主持国家自然科学基金项目3项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
 </p>
-中国海洋大学主页：<a href="[http://it.ouc.edu.cn/main.htm](https://it.ouc.edu.cn/cs/main.htm)">计算机科学与技术学院</a>  <a href="http://it.ouc.edu.cn/yyw/main.htm">于彦伟</a>
+中国海洋大学主页：<a href="[http://it.ouc.edu.cn/main.htm](https://it.ouc.edu.cn/cs/main.htm)">计算机科学与技术学院</a>  <a href="http://it.ouc.edu.cn/yyw/main.htm">于彦伟</a>    
+招收2024级硕士研究生！2024级博士研究生（名额已满）！
 
 ———————————————————————————————————————————————
 
 ## 基本信息
 **工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/main.htm">信息科学与工程学部</a> <a href="https://it.ouc.edu.cn/cs/main.htm">计算机科学与技术学院</a>   
-**现任职称：** 教授   
+**现任职称：** 教授      
 **电子邮箱：** yuyanwei@ouc.edu.cn   
 **办公地址：** 中国海洋大学西海岸校区 信息楼南楼A329   
 **教授课程：** 数据库系统(本科生)，大数据技术先导实验(本科生)，数据仓库与数据挖掘(研究生) 
