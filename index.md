@@ -18,6 +18,8 @@
 **教授课程：** 数据库系统(本科生)，大数据技术先导实验(本科生)，数据仓库与数据挖掘(研究生) 
 
 ## 新闻
++ <span style="color:red;">2023/11/30 祝贺陈伟一作的论文“Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks”被CCF B类期刊TKDD接收！</span>  
++ <span style="color:red;">2023/11/22 祝贺王斌老师指导的本科生论文“DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation”获得ISKE 2023 “Best Student Paper Award”奖！</span>  
 + <span style="color:red;">2023/05/17 祝贺付超凡一作的论文“Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling”被CCF A类会议KDD 2023接收！</span>   
 + <span style="color:red;">2022/11/19 祝贺秦广明一作的论文“Graph Structure Learning on User Mobility Data for Social Relationship Inference”被CCF A类会议AAAI 2023接收！</span>
 + <span style="color:red;">2022/10/19 课题组申报的项目“面向大规模、高维、流式大数据的高效异常检测方法研究”获得2022年度山东省人工智能自然科学二等奖！</span>
@@ -71,6 +73,8 @@
 
 ## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
 \# 指导学生，\* 通讯作者
+* Wei Chen, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu DOng. Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2023 (**CCF B**, Online). <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
+* Binyu Tan, Junrui Shi, Bin Wang, <u>Yanwei Yu</u>, Feng Hong, Tianrui Li. DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation. Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering (ISKE 2023), November 17--19, 2023, Fuzhou, China. (**Best Student Paper**)  <span style="color:red;">**New!**</span>  
 * Zhanyu Liu, Guanjie Zheng, <u>Yanwei Yu</u>. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**), October 21--25, 2023, Birmingham, UK. (**CCF B**, 接收率=354/1472=24%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>  
 * Chaofan Fu#, Guanjie Zheng, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**), August 6--10, 2023, Long Beach, CA, USA. (**CCF A**, 接收率=313/1416=22.1%) <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599441" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>    
 * Yunfei Shi#, Bin Wang, <u>Yanwei Yu*</u>, Xianfeng Tang, Chao Huang, Junyu Dong. Robust Anomaly Detection for Multivariate Time Series through Temporal GCNs and Attention-based VAE. Knowledge-Based Systems, 2023 (**中科院一区Top期刊**, **CCF C**) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123004756" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>   
@@ -126,4 +130,4 @@
 
 <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
 
-**更新时间：2023/09/07**
+**更新时间：2023/11/30**
