@@ -13,6 +13,8 @@
 **Tel:** +86-157252900    
 
 ## News
++ 2023/11/30 One paper was accepted by ACM TKDD.
++ 2023/11/18 Our paper won ISKE 2023 "Best Student Paper Award".
 + 2023/8/05 One paper was accepted by CIKM 2023.
 + 2023/6/10 One paper was accepted by Knowledge-Based Systems.
 + 2023/5/17 One paper was accepted by KDD 2023.
@@ -59,6 +61,8 @@ Discrete Mathematics I (Undergrad), Database System (Undergrad), Data Warehousin
 
 ## Selected Publications (<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">Google Scholar</a>) 
 \# Supervised students, \* Corresponding author
+* Wei Chen, Chao Huang, <u>Yanwei Yu*</u>, Yongguo Jiang, Junyu DOng. Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2023 (**CCF B**, Online). <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>
+* Binyu Tan, Junrui Shi, Bin Wang, <u>Yanwei Yu</u>, Feng Hong, Tianrui Li. DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation. Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering (ISKE 2023), November 17--19, 2023, Fuzhou, China. (**Best Student Paper**)  <span style="color:red;">**New!**</span>  
 * Zhanyu Liu, Guanjie Zheng, <u>Yanwei Yu</u>. Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**), October 21--25, 2023, Birmingham, UK. (**CCF B**, acceptance rate=354/1472=24%) <a href="#" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>  
 * Chaofan Fu#, Guanjie Zheng, Chao Huang, <u>Yanwei Yu*</u>, Junyu Dong. Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**), August 6--10, 2023, Long Beach, CA, USA. (**CCF A**, acceptance rate=313/1416=22.1%) <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599441" target="_blank">[PDF]</a>  <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a> <a href="#" target="_blank">[Slides]</a>   <span style="color:red;">**New!**</span>    
 * Yunfei Shi#, Bin Wang, <u>Yanwei Yu*</u>, Xianfeng Tang, Chao Huang, Junyu Dong. Robust Anomaly Detection for Multivariate Time Series through Temporal GCNs and Attention-based VAE. Knowledge-Based Systems, 2023 (**JCR Q1**, **CCF C**) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123004756" target="_blank">[PDF]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Bib]</a>  <span style="color:red;">**New!**</span>   
