@@ -1,0 +1,12 @@
+.importance{
+    margin-left: 10px;
+}
+
+#papers > li{
+    margin-bottom: 30px;
+}
+
+#papers > li > p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
