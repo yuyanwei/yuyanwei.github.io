@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <title>Yanwei Yu's Homepage</title>
+  <style>
+    /* 全局样式重置 & 基础设置 */
+    * {
+      margin: 0; 
+      padding: 0; 
+      box-sizing: border-box; 
+      font-family: "Helvetica Neue", Arial, sans-serif;
+    }
+    body {
+      background: #f8f9fa; 
+      color: #333; 
+      line-height: 1.6;
+    }
+
+    /* 页面容器 - 控制内容宽度 */
+    .page-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1rem; /* 移动端边距 */
+    }
+
+    /* 导航栏样式 */
+    .navbar {
+      background: #3f51b5; /* 新颜色 */
+      height: 60px;
+      margin-bottom: 1rem;
+    }
+    .navbar-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      height: 100%;
+      margin: 0 auto;
+      padding: 0 1rem; /* 与内容区对齐 */
+    }
+    .navbar-left a {
+      color: #fff; 
+      text-decoration: none; 
+      font-size: 1.2rem; /* 增大左侧字体 */
+      /* font-weight: bold; */
+    }
+    .navbar-right a {
+      color: #fff; 
+      text-decoration: none; 
+      margin-left: 1.5rem; 
+      font-size: 1.1rem; /* 增大右侧字体 */
+      /* font-weight: bold; 加粗右侧字体 */
+    }
+    .navbar-right a:hover {
+      text-decoration: underline;
+    }
+
+    /* 主体布局：左侧 + 右侧 */
+    .container {
+      display: flex;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    /* 左侧区域：头像 + 基础信息 */
+    .sidebar {
+      width: 300px;
+      text-align: center;
+      padding: 2rem;
+      background: #f1f3f5;
+    }
+    .sidebar img {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+      object-fit: cover;
+    }
+    .sidebar h2 {
+      font-size: 1.4rem;
+      margin-bottom: 0.5rem;
+    }
+    /* 添加以下样式来去除于彦伟超链接的下划线 */
+    .sidebar h2 a {
+      text-decoration: none;
+    }
+    .sidebar p {
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    .contact-icons a {
+      color: #3f51b5; /* 新颜色 */
+      margin: 0 0.5rem;
+      font-size: 1.2rem;
+      text-decoration: none;
+    }
+
+    /* 右侧区域：内容模块 */
+    .main-content {
+      flex: 1;
+      padding: 2rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .section h3 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: #3f51b5; /* 新颜色 */
+      border-left: 4px solid #3f51b5; /* 新颜色 */
+      padding-left: 0.5rem;
+    }
+    /* 修改正文内容字体颜色为黑色 */
+    .section p, .section li {
+      color: #000;
+      margin-bottom: 0.5rem;
+      line-height: 1.8;
+    }
+    .section ul {
+      list-style: square;
+      padding-left: 0; /* 重置默认padding */
+      margin-left: 1.5em; /* 设置整体缩进 */
+      list-style-position: outside; /* 设置列表标记在内容外部 */
+    }
+    .section ul li {
+      padding-left: 0; /* 移除之前的padding设置 */
+      text-indent: 0; /* 移除之前的text-indent设置 */
+    }
+
+    /* 响应式布局 */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+      }
+      .sidebar {
+        width: 100%;
+      }
+      .navbar-right a {
+        margin-left: 0.8rem;
+        font-size: 0.95rem; /* 移动设备上调整字体大小 */
+      }
+      .navbar-left a {
+        font-size: 1.1rem; /* 移动设备上调整字体大小 */
+      }
+    }
+    /* 页脚样式 */
+    .footer {
+      text-align: center;
+      padding: 1rem 0;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <nav class="navbar">
+    <div class="navbar-content">
+      <div class="navbar-left">
+        <a href="new_index.html">YANWEI YU (@OUC)</a>
+      </div>
+      <div class="navbar-right">
+        <a href="https://sigma-ouc.github.io/en/papers/">发表论文</a>
+        <a href="https://sigma-ouc.github.io/en/people/">课题组</a>
+        <!-- <a href="#language">Chinese</a> -->
+      </div>
+    </div>
+  </nav>
+
+  <!-- 页面容器 -->
+  <div class="page-container">
+    <!-- 主体容器：左侧sidebar + 右侧内容 -->
+    <div class="container">
+      <!-- 左侧：头像 & 基础信息 -->
+      <aside class="sidebar">
+        <img src="yu.jpg" alt="个人照片">
+        <h2>于彦伟（<a href="./new_index.html">Yanwei Yu</a>）</h2>
+        <p>教授, 博士生导师</p>
+        <p>中国海洋大学</p>
+        <div class="contact-icons">
+          <a href="mailto:yuyanwei@ouc.edu.cn"><i class="fa fa-envelope"></i></a>
+          <!-- <a href="your-cv.pdf" target="_blank">CV</a> -->
+          <a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en" target="_blank" class="fa-solid fa-graduation-cap"></a>
+        </div>
+      </aside>
+
+      <!-- 右侧：内容区域 -->
+      <div class="main-content">
+        <!-- Resume -->
+        <section class="section" id="resume">
+          <h3>个人简介</h3>
+          <p>
+            中国海洋大学<a href="http://it.ouc.edu.cn/">信息科学与工程学部</a>教授、博士生导师，泰山学者青年专家，中国海洋大学“青年英才工程”第一层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为<a href="https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin">王沁教授</a>，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为<a href="https://www.wpi.edu/people/faculty/rundenst">Prof. Elke Rundensteiner</a>，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为<a href="https://faculty.ist.psu.edu/jessieli/Site/index.html">Prof. Zhenhui Jessie Li</a>。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为<u>数据挖掘</u>、<u>机器学习</u>、<u>分布式计算</u>以及<u>数据库系统</u>。在TODS、TKDD、TBD、KDD、WWW、AAAI、IJCAI、UbiComp、ICDE、CIKM、DASFAA等国际期刊和会议上发表论文60余篇，其中中国计算机学会A/B类推荐会议/期刊、ACM/IEEE汇刊、中科院一区Top期刊40余篇、A类中文期刊4篇。主持国家自然科学基金项目3项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+          </p>
+        </section>
+
+        <!-- Experience -->
+        <section class="section" id="experience">
+          <h3>工作经历</h3>
+          <ul>
+            <li>2022/11-至今，中国海洋大学，教授，博士生导师、硕士生导师</li>
+            <li>2019/08-2022/10，中国海洋大学，副教授，硕士生导师</a></li>
+            <li>2018/09-2019/07，烟台大学，副教授，硕士生导师</a></li>
+            <li>2014/03-2018/08，烟台大学，讲师，硕士生导师</a></li>
+          </ul>
+        </section>
+
+        <!-- Education -->
+        <section class="section" id="education">
+          <h3>教育经历</h3>
+          <ul>
+            <li>2016/11-2018/09，宾夕法尼亚州立大学(PSU), 信息科学与技术学院，博士后</li>
+            <li>2012/09-2013/10，伍斯特理工学院(WPI)，计算机系，联合培养博士</li>
+            <li>2008/09-2014/01，北京科技大学，计算机与通信工程学院，硕博连读，博士</li>
+            <li>2004/09-2008/07，聊城大学，计算机学院，学士</li>
+          </ul>
+        </section>
+
+        <section class="section" id="education">
+          <h3>奖励与荣誉</h3>
+          <ul>
+            <li>2022年10月获山东省人工智能自然科学奖二等奖（第一位次）</li>
+            <li>2021年12月获山东省自然科学奖三等奖（第三位次）</li>
+            <li>2019年12月获山东省科学技术进步奖二等奖（第六位次）</li>
+            <li>2017年10月获山东省高等学校科学技术奖三等奖（第一位次）</li>
+            <li>2014年01月获北京科技大学优秀博士学位论文奖</li>
+            <li>2012年12月获教育部博士研究生国家奖学金</li>
+          </ul>
+        </section>
+
+        <section class="section" id="projects">
+          <h3>科研项目</h3>
+          <p>[2022-2025] <strong>国家自然科学基金面上项目</strong>, 62176243, “面向大规模复杂时空数据的表征学习方法及其应用研究”,73.9万, <strong>主持人</strong> <span style="color:red;"><strong>New!</strong></span>  <br>
+            [2018-2021] <strong>国家自然科学基金面上项目</strong>, 61773331, “面向轨迹大数据的语义标注与语义模式挖掘算法研究”,76.8万, <strong>主持人</strong>     <br>
+            [2017-2019] 山东省高等学校科技计划项目, J17KA091, “支持公共位置服务的交通大数据实时挖掘与分析关键技术研究”, 3.5万, <strong>主持人</strong><br>
+            [2015-2017] 国家自然科学基金青年基金项目, 61403328, “时空大数据流分布式异常事件检测技术研究”, 25万, <strong>主持人</strong><br>
+            [2014-2016] 吉林大学符号计算与知识工程教育部重点实验室开放基金, 93K172014K13, “分布式异常检测技术研究”, 2万, <strong>主持人</strong><br>
+            [2016-2019] 国家自然科学基金面上项目, 61572409, “基于CP-nets的多Agent定性博弈”, 61万, 主要参与人<br>
+            [2015-2019] 山东省重点研发计划项目, 2015GSF115009, “山东近岸海域海洋生态大数据云存储平台构建及应用研究”, 20万, 主要参与人<br>
+            [2012-2015] 国家自然科学基金面上项目, 61172049, “基于信道Time/Power度量指标的TOA测距误差模型及其应用研究”, 60万, 主要参与人<br>
+            [2011-2013] 国家自然科学基金青年基金项目, 61003251, “无线传感器网络多信道链路时变特征在线建模技术研究”, 18万, 参与人<br>
+            [2009-2013] 美国自然科学基金项目, 0917017, “III: Small: Query Mesh - A Novel Paradigm for Query Processing”, 50万美元, 参与人</p>
+        </section>   
+
+        <!-- Professional Services -->
+        <section class="section" id="professional-services">
+          <h3>学术兼职</h3>
+          <ul>
+            <li>国家自然科学基金通讯评审专家（2015年-今）</li>
+            <li>山东省人工智能学会常务理事</li>
+            <li>中国人工智能学会智能服务专委会委员</li>
+            <li>中国计算机学会大数据专家委员会执行委员</li>
+            <li>中国计算机学会人工智能与模式识别专委会执行委员</li>
+            <li>中国计算机学会信息系统专委会执行委员</li>
+            <li>中国计算机学会服务计算专委会执行委员</li>
+            <li>程序委员会委员（PC Member）：SIGIR2024, KDD2024, AAAI2024, PAKDD2023, SDM2023, SIGIR2023, KDD2023, WSDM2023, WWW2023, AAAI2023, IJCAI2022, WWW2022, AAAI2022, KDD2022, SDM2022, KDD2021, AAAI2021, SDM2021, KDD2020, AAAI2020, SDM2020, KDD2019, CIKM2019, SDM2019, IPCCC2018, UrbComp2018, DIT2018, InTI2018, UrbComp2016</li>
+            <li>期刊审稿人：IEEE Transactions on Cybernetics, IEEE Transactions on Mobile Computing, ACM Transactions on Intelligent Systems and Technology, IEEE Transactions on Big Data, Knowledge-based Systems, IEEE Access.</li>
+          </ul>
+        </section>
+
+        <section class="section" id="teaching">
+          <h3>教授课程</h3>
+          <ul>
+            <li>数据库系统(本科生)</li>
+            <li>大数据技术先导实验(本科生)</li>
+            <li>数据仓库与数据挖掘(研究生)</li>
+          </ul>
+        </section>        
+      </div>
+    </div>
+    <!-- 添加 ClustrMaps -->
+    <div id="clustrmaps-widget"></div>
+      <a href="https://clustrmaps.com/site/1bf9f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=YgAX7EI4VQTaUhsp2h3xKcH7hPOD2pUDVXgafAsrXTE&cl=ffffff" /></a>
+    </div>
+  <!-- 页脚版权信息 -->
+  <div class="footer">
+    Site last updated on April 30, 2025 -- Copyright 2020-2025 Yanwei Yu -- yuyanwei@ouc.edu.cn
+  </div>
+
+</body>
+</html>
